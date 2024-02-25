@@ -1,0 +1,61 @@
+body{
+    background-color: rgba(69, 62, 62, 0.977);
+    color: rgb(112, 200, 200);
+    background-attachment: fixed;
+}
+
+.choise{
+    
+    display: inline-block;
+    justify-content: space-around;
+   aspect-ratio: 3/2;
+   object-fit: contain;
+   margin-top: 21px;
+   margin-left: 300px;
+   mix-blend-mode: color-burn;
+   justify-content: center;
+}
+.choise img{
+    
+    display: flex;
+  justify-content:space-between;
+ 
+   aspect-ratio: 3/2;
+   object-fit: contain;
+   margin-inline: 21px;
+   margin-left: 50px;
+   mix-blend-mode: color-burn;
+  
+  
+   border-radius: 50%;
+
+}
+
+.usermark{
+    font-size: 3rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.char{
+    font-size: 3rem;
+    display: flex;
+    justify-content: center; 
+    box-sizing: content-box;
+}
+.turntype{
+    font-size: 3rem;
+    display: flex;
+    justify-content: center; 
+    margin-top: none;
+}
+h1{
+    background-color: black;
+    color: aqua;
+    justify-content: center;
+    margin-inline: 21px;
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
